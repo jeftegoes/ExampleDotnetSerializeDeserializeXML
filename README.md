@@ -4,4 +4,4 @@ It is a small / simple project that shows how to map and serialize / deserialize
 
 ## Console
 
-.Net 5.0
+.NET 5.0
