@@ -2,9 +2,9 @@
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
-using ProjectSerializeDeserializeXML.Models;
+using ExampleDotnetSerializeDeserializeXML.Models;
 
-namespace ProjectSerializeDeserializeXML
+namespace ExampleDotnetSerializeDeserializeXML
 {
     class Program
     {

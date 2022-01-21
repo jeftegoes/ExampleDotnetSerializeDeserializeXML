@@ -1,6 +1,6 @@
 using System.Xml.Serialization;
 
-namespace ProjectSerializeDeserializeXML.Models
+namespace ExampleDotnetSerializeDeserializeXML.Models
 {
     [XmlRoot(ElementName = "envelope")]
     public class Envelope

@@ -1,6 +1,6 @@
 using System.Xml.Serialization;
 
-namespace ProjectSerializeDeserializeXML.Models
+namespace ExampleDotnetSerializeDeserializeXML.Models
 {
     [XmlRoot("post-method")]
     public class PostMethod
