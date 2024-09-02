@@ -1,4 +1,4 @@
-# Aws overview <!-- omit in toc -->
+# VisualG overview and examples <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
